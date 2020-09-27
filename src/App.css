@@ -1,0 +1,169 @@
+.container1{
+  background-color: #FFF1E1;
+  display: flex;
+  justify-content: space-between;
+  height:50px;
+}
+.top-menu>li>a{
+  list-style: none;
+  display: none;
+  
+}
+.top-menu>li{
+  list-style: none;
+  
+  
+}
+
+.ul1{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding:10px;
+}
+.header-menu>ul>li{
+  list-style: none;
+  margin-left:-40px;
+  display:none;
+}
+.header-dropdown>a{
+  margin-right:15px;
+}
+.header-dropdown{
+  margin:0px 10px;
+}
+.ul2>li{
+  display:flex;
+  list-style: none;
+  padding: 10px;
+}
+.middle-header{
+  background-color:#ffe2c1;
+  display:flex;
+  justify-content:space-between;
+  padding-top: 20px;
+}
+.headear{
+  background-color:#ffe2c1;
+}
+.header-below{
+  display: flex;
+  padding: 20px;
+ 
+}
+.new{
+  display: flex;
+  margin-left: 40px;
+}
+.new>div{
+  padding:0px 50px;
+  font-weight:600;
+}
+.Imag1{
+  position: relative;
+  width:190px;
+  color:rgb(255, 255, 255);
+  height:200px ;
+  margin-left:30px;
+  background-image:url("https://i.ibb.co/QdJwgmp/brown-cowboy.png");
+  background-size: cover;
+background-repeat: no-repeat;
+display:flex;
+flex-direction: column;
+justify-items: center;
+align-items: center;
+justify-content: center;
+padding: 20px;
+font-weight: 700;
+}
+
+.Imag2{
+  position: relative;
+  width:410px;
+  color:rgb(255, 255, 255);
+  height:190px ;
+  margin:30px;
+  background-image:url("https://i.ibb.co/QdJwgmp/brown-cowboy.png");
+  background-size: cover;
+background-repeat: no-repeat;
+display:flex;
+flex-direction: column;
+justify-items: center;
+align-items: center;
+justify-content: center;
+padding: 20px;
+font-weight: 700;
+}
+
+.Imag3{
+  position: relative;
+  width:610px;
+  color:rgb(255, 255, 255);
+  height:420px ;
+  margin-left:180px;
+  background-image:url("https://i.ibb.co/QdJwgmp/brown-cowboy.png");
+  background-size: cover;
+background-repeat: no-repeat;
+display:flex;
+flex-direction: column;
+justify-items: center;
+align-items: center;
+justify-content: center;
+
+font-weight: 700;
+}
+
+
+.Imag1:hover{
+  opacity: 0.7;
+  transition: all 2s ease-in;
+}
+.demo1{
+  display: flex;
+  justify-content: space-between;
+  margin:30px 50px
+}
+.demo2{
+  display: flex;
+}
+.demo3{
+  margin-right:30px;
+}
+.demo4{
+  
+font-size:16Px;
+margin-right:10px;
+opacity:0.8;
+}
+.demo7{
+  width:80px;
+ 
+  background-color:rgb(28, 119, 238);
+ padding: 7.5px 25px;
+  color:white;
+}
+#cars{
+  background-color:#ffe2c1;
+  border:none;
+  outline:none;
+ 
+}
+.demo8{
+  margin-left: 50px;
+  border:2px solid black;
+
+}
+.shopButton{
+  border:1px solid white;
+  margin-top: 50px;
+  padding: 3px 8px;
+
+}
+.shopButton:hover{
+  background-color: rgb(12, 55, 199);
+}
+.Imag2:hover{
+  transition: all 2s ease-in;
+  opacity: 0.8;
+  
+}
